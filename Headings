@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My Portfolio</h1>
+<h2>About Me</h2>
+<p>I am learning HTML</p>
+<h2>Skills</h2>
+<h3>Frontend</h3>
+<p>HTML CSS JavaScript</p>
+<h3>Backend</h3>
+<p>Node.js MongoDB</p>
+</body>
+</html>
