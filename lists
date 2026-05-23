@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Shopping List</h1>
+
+<ul>
+
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Eggs</li>
+
+</ul>
+
+<h1>Daily Routine</h1>
+
+<ol>
+
+    <li>Wake Up</li>
+    <li>Go to College</li>
+    <li>Practice HTML</li>
+
+</ol>
+
+</body>
+
+</html>
