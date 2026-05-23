@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Student Marks</h1>
+
+<table border="1">
+
+<tr>
+    <th>Name</th>
+    <th>Subject</th>
+    <th>Marks</th>
+</tr>
+
+<tr>
+    <td>Bangaram</td>
+    <td>HTML</td>
+    <td>95</td>
+</tr>
+
+<tr>
+    <td>Bharath</td>
+    <td>CSS</td>
+    <td>88</td>
+</tr>
+
+</table>
+
+</body>
+
+</html>
